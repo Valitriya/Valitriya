@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a> 
 
-<h3>Соцсети</h3>
+<h3>Соцсети: </h3>
 
  [<img alt="vallenti_na | Telegram" width="3.5%" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/vallenti_na) &nbsp;[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/valensi/) &nbsp; <a href="mailto:vallitriya@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
